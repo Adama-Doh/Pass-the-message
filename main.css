@@ -33,7 +33,6 @@ button {
 button:hover {
   opacity: 0.8;
   cursor: pointer;
-  outline: none;
 }
 
 input[type="text"] {

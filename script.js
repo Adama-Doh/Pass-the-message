@@ -12,5 +12,4 @@ function snedMessage () {
   }
   msgOut.innerHTML = content
   msgIn.value = ""
-  
 }
